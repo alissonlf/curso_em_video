@@ -1,1 +1,1 @@
-Curso em Vídeo
+Python - Curso em Vídeo
